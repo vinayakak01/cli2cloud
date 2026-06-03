@@ -1,3 +1,5 @@
+![CliToCloud Banner](cli2cloud-image.png)
+
 # CliToCloud
 
 CliToCloud is a Python command-line app for managing files in cloud storage. It can create and delete buckets, upload files, delete files, download files, and list files from the cloud.
